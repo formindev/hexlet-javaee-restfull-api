@@ -1,0 +1,4 @@
+<servlet-mapping>
+    <servlet-name>com.formindev.rest.links.RestApplication</servlet-name>
+    <url-pattern>/*</url-pattern>
+</servlet-mapping>
